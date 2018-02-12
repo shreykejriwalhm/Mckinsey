@@ -1,0 +1,9 @@
+span {
+  width: 20px;
+  height: 20px;
+  border: 1px solid black;
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  display: inline-block;
+}
